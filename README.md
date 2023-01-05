@@ -16,7 +16,7 @@ Execute the program
 # CODE
 ```html
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head> 
         <title> TIMETABLE </title>
     </head>
@@ -26,11 +26,11 @@ Execute the program
             <center>
             <table border="2"> 
                 <tr>
-                    <td align="center" colspan="10">TIMETABLE</td>
+                    <td align="center" colspan="6">TIMETABLE</td>
                 </tr>
                 <tr>
-                    <td colspan="5">REGISTER NO : 22004355</td>
-                    <td colspan="5">NAME : JEGADEESH</td>
+                    <td colspan="3">REGISTER NO : 22004355</td>
+                    <td colspan="3">NAME : JEGADEESH</td>
                 </tr>
 
                 <tr>
@@ -123,6 +123,7 @@ Execute the program
 
         </body>
 </html>
+
 
 
 ```
